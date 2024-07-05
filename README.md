@@ -16,7 +16,7 @@
 
 ⚡ I’m looking to collaborate on any open source platform.
 
-💬 Check my YouTube Channel here https://www.youtube.com/channel/UCf7svfxGUs4I3rL64dd2gmw
+
 
 
 ![handshake](https://user-images.githubusercontent.com/50038188/210223714-596ff4e6-1339-436f-84c0-2a1f149c1e1b.gif)
@@ -37,11 +37,5 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subhadip90&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Subhadip90&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip90&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Subhadip90&icon=0&color=0)](https://visitcount.itsvg.in)
 
